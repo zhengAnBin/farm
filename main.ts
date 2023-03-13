@@ -1,6 +1,6 @@
-import { loginLocalhostQQs } from "./login.ts"
-import { Robot, robotMap } from "./robot/index.ts";
-import { requestData } from "./data.ts";
+import { loginLocalhostQQs } from "./src/login.ts"
+import { Robot, robotMap } from "./src/robot/index.ts";
+import { requestData } from "./src/data.ts";
 
 console.log("1，处理登录");
 const localhostQQs = await loginLocalhostQQs();

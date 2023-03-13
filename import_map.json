@@ -3,6 +3,7 @@
         "testing/": "https://deno.land/std@0.178.0/testing/",
         "cron": "https://deno.land/x/deno_cron/cron.ts",
         "logger": "https://deno.land/std@0.178.0/log/mod.ts",
-        "dayjs": "npm:dayjs@1.11.7"
+        "dayjs": "npm:dayjs@1.11.7",
+        "xml2js": "https://deno.land/x/xml2js@1.0.0/mod.ts"
     }
 }

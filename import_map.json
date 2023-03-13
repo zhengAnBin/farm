@@ -1,0 +1,8 @@
+{
+    "imports": {
+        "testing/": "https://deno.land/std@0.178.0/testing/",
+        "cron": "https://deno.land/x/deno_cron/cron.ts",
+        "logger": "https://deno.land/std@0.178.0/log/mod.ts",
+        "dayjs": "npm:dayjs@1.11.7"
+    }
+}
